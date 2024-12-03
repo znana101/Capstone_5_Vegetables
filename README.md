@@ -15,5 +15,10 @@ Developed for an agricultural technology company, this project aims to enhance a
 ![test_image_2_yolo](https://github.com/user-attachments/assets/789bdac3-002c-4906-8a2f-b8d49408cf49)
 ### Test image after train
 ![test_image_2_after_train](https://github.com/user-attachments/assets/f3178dd4-6f68-495c-9e28-fc5df96b709c)
+## Discussion
+1. The project demonstrates high accuracy in detecting and classifying various vegetables using a YOLO-based object detection model, showcasing its potential for real-world agricultural applications.
+2. Data augmentation techniques like random flipping and rotation improved the model's robustness by enabling it to handle diverse visual scenarios effectively.
+3. The evaluation metrics, including mAP (mean Average Precision), highlighted the model's strong performance in precise vegetable identification, ensuring reliability in practical deployments.
 
+Conclusion: The model overall performed well as all classes obtained a mAP of higher than 0.75.
 
