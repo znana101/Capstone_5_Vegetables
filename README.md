@@ -2,6 +2,8 @@
 ## Project description
 An AI-powered object detection system designed to automatically identify and classify various types of vegetables in images.
 Developed for an agricultural technology company, this project aims to enhance automation and accuracy in vegetable identification, making it a valuable tool for smart farming and food processing industries.
+## Model Architecture
+![model_architecture](https://github.com/user-attachments/assets/edc4c9af-e198-43cc-9acd-c4976f3bdc53)
 ## Results
 ### Model Evaluation
 ![model_evaluation](https://github.com/user-attachments/assets/454b7aa9-4136-4029-9db3-706ca821f043)
